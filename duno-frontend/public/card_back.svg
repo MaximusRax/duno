@@ -1,0 +1,15 @@
+<svg width="300" height="450" viewBox="0 0 300 450" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="450" rx="20" ry="20" fill="black" />
+  
+  <rect x="15" y="15" width="270" height="420" rx="15" ry="15" fill="none" stroke="white" stroke-width="8" />
+  
+  <ellipse cx="150" cy="225" rx="130" ry="90" fill="#FFD700" transform="rotate(-25 150 225)" />
+  
+  <ellipse cx="150" cy="225" rx="120" ry="80" fill="#ED1C24" transform="rotate(-25 150 225)" />
+  
+  <text x="150" y="245" font-family="Arial Black, sans-serif" font-size="75" font-weight="900" fill="white" text-anchor="middle" transform="rotate(-25 150 225)" style="paint-order: stroke; stroke: #000; stroke-width: 6px; letter-spacing: -2px;">
+    DUNO
+  </text>
+  
+  <path d="M 80 280 Q 150 310 220 280" stroke="white" stroke-width="4" fill="none" transform="rotate(-25 150 225)" opacity="0.6" />
+</svg>

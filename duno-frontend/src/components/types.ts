@@ -1,0 +1,1 @@
+export type PowerCard = "reverse" | "wild" | "wildDraw4" | "skip";
